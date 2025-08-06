@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Zain Sohail
 
-<!--
-**zainsohail0/zainsohail0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science @ Purdue University (Graduating Dec 2026)  
+🔍 Currently seeking Summer 2026 Software Engineering Internship opportunities
+🔐 AI Security Intern @ [SonnyLabs.ai](https://sonnylabs.ai)  
+🧬 Undergraduate Researcher – Using Transformer-based ML to predict Antimicrobial Peptides  
+📱 Building **Fall Guard**, a fall-prevention app to help older adults stay safe and connected  
+💡 Passionate about AI, cybersecurity, and full-stack web development
 
-Here are some ideas to get you started:
+---
+### 🚀 Projects I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **🧪 AMP Prediction Research**  
+  Training and evaluating transformer models on biological sequence data to identify antimicrobial peptides. These peptides are highly sought after for their potential in medical therapies, and there’s growing global interest in using AI to discover them more effectively!
+
+- **📱 Fall Guard**  
+  A mobile-first app enabling older adults to log falls, notify caregivers, and access helpful resources — semi-finalist in the 2025 Healthy Care, Healthy Costs Innovation Challenge. 
+
+### 📫 Let’s Connect
+
+- 🌐 [LinkedIn](https://linkedin.com/in/zain-sohail)  
+- 💌 zainsohail55@gmail.com
+---
