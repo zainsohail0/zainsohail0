@@ -2,7 +2,7 @@
 
 🎓 Computer Science @ Purdue University (Graduating Dec 2026)  
 🔍 Currently seeking Summer 2026 Software Engineering Internship opportunities
-🔐 AI Security Intern @ [SonnyLabs.ai](https://sonnylabs.ai)  
+🔐 SWE Intern @ [SonnyLabs.ai](https://sonnylabs.ai)  
 🧬 Undergraduate Researcher – Using Transformer-based ML to predict Antimicrobial Peptides  
 📱 Building **Fall Guard**, a fall-prevention app to help older adults stay safe and connected  
 💡 Passionate about AI, cybersecurity, and full-stack web development
