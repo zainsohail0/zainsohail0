@@ -8,7 +8,7 @@
 💡 Passionate about AI, cybersecurity, and full-stack web development
 
 ---
-### 🚀 Projects I'm Working On
+### Projects I'm Working On
 
 - **🧪 AMP Prediction Research**  
   Training and evaluating transformer models on biological sequence data to identify antimicrobial peptides. These peptides are highly sought after for their potential in medical therapies, and there’s growing global interest in using AI to discover them more effectively!
