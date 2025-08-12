@@ -14,7 +14,7 @@
   Training and evaluating transformer models on biological sequence data to identify antimicrobial peptides. These peptides are highly sought after for their potential in medical therapies, and there’s growing global interest in using AI to discover them more effectively
 
 - **📱 Fall Guard**  
-  A mobile-first app enabling older adults to log falls, notify caregivers, and access helpful resources — semi-finalist in the 2025 Healthy Care, Healthy Costs Innovation Challenge. 
+  A mobile-first app enabling older adults to log falls, notify caregivers, and access helpful resources — semi-finalist in the 2025 Healthy Care, Healthy Costs Innovation Challenge hosted by Parkview Health. 
 
 ### 📫 Let’s Connect
 
